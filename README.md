@@ -12,3 +12,4 @@ Webotron currently has the following feautres.
 
 - List Bucket
 - List Bucket Contenets
+- Create and setup Bucket
